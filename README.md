@@ -1,5 +1,3 @@
-README.md
-
 # Offshore Wind & Marine Ecosystem Explorer (EcoWindSim)
 
 ## Overview
